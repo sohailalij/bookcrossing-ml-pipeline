@@ -1,0 +1,23 @@
+# Data files (too large for GitHub)
+data/raw/
+data/processed/
+
+# Processed binary files
+data/processed/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Conda
+.env
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
