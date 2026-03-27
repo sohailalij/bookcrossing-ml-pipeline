@@ -1,0 +1,119 @@
+KMeans, Cluster 0
+The Lovely Bones: A Novel, 484
+Harry Potter and the Order of the Phoenix (Book 5), 90
+Harry Potter and the Prisoner of Azkaban (Book 3), 72
+Harry Potter and the Goblet of Fire (Book 4), 65
+Harry Potter and the Sorcerer's Stone (Book 1), 60
+Harry Potter and the Chamber of Secrets (Book 2), 58
+Seabiscuit: An American Legend, 51
+A Child Called \"It\": One Child's Courage to Survive, 44
+Night, 40
+Memoirs of a Geisha Uk, 38
+
+KMeans, Cluster 1
+The Da Vinci Code, 463
+Angels & Demons, 181
+Digital Fortress : A Thriller, 54
+The Lovely Bones: A Novel, 39
+Deception Point, 37
+Mystic River, 29
+The Beach House, 25
+Wild Animus, 22
+Lies and the Lying Liars Who Tell Them: A Fair and Balanced Look at the Right, 21
+The Last Juror, 21
+
+KMeans, Cluster 2
+The Catcher in the Rye, 153
+To Kill a Mockingbird, 128
+Fahrenheit 451, 120
+Jurassic Park, 118
+American Gods, 101
+Interview with the Vampire, 100
+Stupid White Men ...and Other Sorry Excuses for the State of the Nation!, 94
+The Vampire Lestat (Vampire Chronicles, Book II), 90
+Ender's Game (Ender Wiggins Saga (Paperback)), 89
+The Fellowship of the Ring (The Lord of the Rings, Part 1), 84
+
+KMeans, Cluster 3
+A Painted House, 204
+The Summons, 153
+The Firm, 146
+A Time to Kill, 146
+1st to Die: A Novel, 140
+The Pelican Brief, 134
+The Testament, 132
+Timeline, 121
+The Runaway Jury, 113
+The Chamber, 110
+
+KMeans, Cluster 4
+The Red Tent (Bestselling Backlist), 251
+Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1), 105
+The Hobbit : The Enchanting Prelude to The Lord of the Rings, 61
+Dance upon the Air (Three Sisters Island Trilogy), 60
+Face the Fire (Three Sisters Island Trilogy), 54
+Message in a Bottle, 52
+Tribulation Force: The Continuing Drama of Those Left Behind (Left Behind No. 2), 51
+Heaven and Earth (Three Sisters Island Trilogy), 49
+Skipping Christmas, 42
+Jewels of the Sun (Irish Trilogy), 42
+
+KMeans, Cluster 5
+Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)), 203
+Harry Potter and the Chamber of Secrets (Book 2), 108
+Harry Potter and the Prisoner of Azkaban (Book 3), 76
+Don't Sweat the Small Stuff and It's All Small Stuff : Simple Ways to Keep the Little Things from Taking Over Your Life (Don't Sweat the Small Stuff Series), 33
+Daddy's Little Girl, 27
+Harry Potter and the Goblet of Fire (Book 4), 26
+1st to Die: A Novel, 24
+The Last Precinct, 23
+Violets Are Blue, 23
+2nd Chance, 22
+
+KMeans, Cluster 6
+Free, 50
+MÃ?ÃÂ¶rder ohne Gesicht., 32
+Stupid White Men. Eine Abrechnung mit dem Amerika unter George W. Bush, 32
+Ishmael: An Adventure of the Mind and Spirit, 31
+Illuminati., 30
+Russendisko., 29
+Notes From a Small Planet, 24
+Reader, 24
+Io Non Ho Paura, 22
+The Perks of Being a Wallflower, 22
+
+KMeans, Cluster 7
+The Nanny Diaries: A Novel, 99
+Into Thin Air : A Personal Account of the Mt. Everest Disaster, 82
+Into the Wild, 78
+The Giver (21st Century Reference), 69
+A Heartbreaking Work of Staggering Genius, 68
+A Prayer for Owen Meany, 68
+White Oleander : A Novel (Oprah's Book Club), 58
+The Alienist, 53
+Good Omens, 49
+The Poisonwood Bible, 44
+
+KMeans, Cluster 8
+Wild Animus, 321
+Interview with the Vampire, 58
+The Bad Beginning (A Series of Unfortunate Events, Book 1), 35
+Holes (Yearling Newbery), 33
+The Perfect Storm : A True Story of Men Against the Sea, 31
+Lord of the Flies, 24
+Where the Red Fern Grows, 23
+Anne of Avonlea (Anne of Green Gables Novels (Paperback)), 17
+Back Roads, 16
+Das Parfum: Die Geschichte Eines Morders, 14
+
+KMeans, Cluster 9
+Divine Secrets of the Ya-Ya Sisterhood: A Novel, 271
+Where the Heart Is (Oprah's Book Club (Paperback)), 267
+The Secret Life of Bees, 262
+The Pilot's Wife : A Novel, 236
+Girl with a Pearl Earring, 235
+Snow Falling on Cedars, 210
+House of Sand and Fog, 197
+Good in Bed, 188
+The Poisonwood Bible: A Novel, 187
+The Five People You Meet in Heaven, 173
